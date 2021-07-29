@@ -1,6 +1,5 @@
-/* Assignment C++: 2
-Author: Itamar Azran, ID: 307955450
-Author: yevgeniy Gluhoy, ID: 336423629
+/* 
+Author: Itamar Azran
 */
 #include "Client.h"
 #pragma warning(disable : 4996)
